@@ -1,0 +1,29 @@
+.navbar p{
+    color: rgb(204, 204, 11);
+    font-size: 8px;
+    font-weight: bolder;
+    margin-top: 0;
+    margin-bottom: -17px;
+}
+.pnav{
+    margin-top: -10px;
+}
+.navbar img{
+    margin-left: 150px;
+    margin-top: -5px;
+    height: 30px;
+    width: 150px;
+    float: left;
+}
+.firstNav{
+    margin-left: 160px;
+}
+.navbar li{
+    list-style-type: none;
+    float: left;
+    margin-right: 40px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bolder;
+    letter-spacing: 0.8px;
+}

@@ -1,0 +1,14 @@
+
+.footer li{
+    list-style-type:none;
+    float: left;
+    margin-left: 50px;
+    color:#fff;
+}
+.footer .checkColor{
+    color: rgb(19, 184, 4);
+    margin-right: 8px;
+}
+.footer .firstLi{
+    margin-left: 110px;
+}
